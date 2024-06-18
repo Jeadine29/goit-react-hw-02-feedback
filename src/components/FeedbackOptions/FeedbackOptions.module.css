@@ -1,0 +1,29 @@
+/* src/components/FeedbackOptions.module.css */
+.feedbackContainer {
+    text-align: center;
+}
+
+.feedbackContainer button {
+    margin: 0 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-transform: capitalize;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.good {
+    background-color: green;
+    color: white;
+}
+
+.neutral {
+    background-color: yellow;
+    color: black;
+}
+
+.bad {
+    background-color: red;
+    color: white;
+}
