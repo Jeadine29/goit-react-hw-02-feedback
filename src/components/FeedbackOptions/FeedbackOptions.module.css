@@ -1,29 +1,29 @@
 /* src/components/FeedbackOptions.module.css */
 .feedbackContainer {
-    text-align: center;
+  text-align: center;
 }
 
 .feedbackContainer button {
-    margin: 0 5px;
-    padding: 10px 20px;
-    font-size: 16px;
-    text-transform: capitalize;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
+  margin: 0 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  text-transform: capitalize;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
 }
 
 .good {
-    background-color: green;
-    color: white;
+  background-color: lightseagreen;
+  color: white;
 }
 
 .neutral {
-    background-color: yellow;
-    color: black;
+  background-color: yellow;
+  color: black;
 }
 
 .bad {
-    background-color: red;
-    color: white;
+  background-color: red;
+  color: white;
 }
